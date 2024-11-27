@@ -6,3 +6,6 @@ Will be learning git here, test!
 <p>
 My first lesson
 </p>
+<p>
+My second lesson
+</p>
