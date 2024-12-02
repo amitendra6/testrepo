@@ -9,3 +9,6 @@ My first lesson
 <p>
 My second lesson
 </p>
+<p>
+My Third lesson
+</p>
