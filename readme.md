@@ -10,12 +10,9 @@ My first lesson
 My second lesson
 </p>
 <p>
-<<<<<<< Updated upstream
 My Third lesson
 </p>
 <p>
 My Fourth lesson
-=======
 My Stash lesson first time
->>>>>>> Stashed changes
 </p>
