@@ -18,8 +18,4 @@
 1. What is your father name ?
 
 # Test Number 5
-<<<<<<< Updated upstream
 1. What is your mother name ?
-=======
-1. What is your Mother name ?
->>>>>>> Stashed changes
